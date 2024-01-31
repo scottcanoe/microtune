@@ -1,0 +1,16 @@
+{
+    "black" : "#000000",
+    "white" : "#F8F8F2",
+    "darkgray" : "#272822",
+    "mediumgray" : "#464741",
+    "commentgray" : "#75715E",
+    "lightgray" : "#565751",
+    "bordergray" : "#595B4D",
+    "paleyellow" : "#E6DB74",
+    "pink" : "#F92672",
+    "lightblue" : "#66D9EF",
+    "blue" : "#8080FF",
+    "brightblue" : "#AE81FF",
+    "limegreen" : "#A6E22E",
+    "brown" : "#805000"
+}
