@@ -10,6 +10,8 @@ Secondly, the fundamental frequency estimate is not a point estimate, but rather
 
 As for alternate tuning systems, this repo comes with twelve-tone equal temperament, but the user can create any tuning system and drop it as a JSON file into the `resources/scales` directory. The format is simple: provide pairs of note number (i.e., scale degree) and cent values, where cent values range from 0 to 12000. Look at `EDO12.json` for an example. The pitch standard can also be adjusted on the fly so you can tune to, say, A = 430 Hz.
 
+** Usage
+
 The GUI can be run with varying levels of information exposed to the user. The minimal inferface looks like this:
 
 picture of GUI
