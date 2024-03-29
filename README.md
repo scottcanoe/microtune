@@ -12,12 +12,4 @@ As for alternate tuning systems, this repo comes with twelve-tone equal temperam
 
 ** Usage
 
-The GUI can be run with varying levels of information exposed to the user. The minimal inferface looks like this:
-
-picture of GUI
-
-Yes, it's ugly. The full version looks like this:
-
-picture of full GUI
-
-Fields/parameters can just be left at default values. They're still around from when I was prototyping the algorithm, but you might find them interesting or useful.
+The GUI can be run with varying levels of information exposed to the user. The minimal inferface shown only relevant tuning info, and the full interface shows YIN coefficients, RMS, and fields/parameters than were used during development. You might find them interesting or useful.
